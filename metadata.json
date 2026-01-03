@@ -1,0 +1,7 @@
+{
+  "name": "Lalu Swim - Elite Swimming Academy",
+  "description": "A modern, premium swimming course platform featuring interactive AI coaching, course registration, and a professional portfolio for swim enthusiasts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
